@@ -11,4 +11,13 @@ One of the most significant aspects of my development has been in understanding 
   The artifacts included in my ePortfolio showcase a diverse range of technical skills and accomplishments. From the implementation of complex algorithms to the development of scalable software applications, each artifact represents a milestone in my academic journey and highlights my ability to tackle real-world challenges in computer science.
 In summary, my professional self-assessment serves as a testament to my growth, competence, and readiness to embark on a career in computer science. I am excited about the opportunity to use my skills and knowledge in future roles, contributing meaningfully to innovative projects and teams within the industry.
 
+## Artifact 1
+[My first artifact in which I display my proficiency with modular and robust code in Java] (https://github.com/mikeladderbush/ePortfolio/tree/main/BjjSite)
+
+## Artifact 2
+[My second artifact, an application that makes use of different data structures] (https://github.com/mikeladderbush/ePortfolio/tree/main/Artifact%202/src)
+
+## Artifact 3
+[The same application as Artifact 1 with an included database] (https://github.com/mikeladderbush/ePortfolio/tree/main/BjjSite)
+
 
